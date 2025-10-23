@@ -1,4 +1,4 @@
-# 📝 Redmine Interativa – Projeto Previsão de Futebol com IA Claude no Databricks
+# 📝 Redmine Interativa – Projeto Previsão de Futebol no Databricks
 
 ![Databricks](https://img.shields.io/badge/Databricks-Workspace-blue)
 ![Python](https://img.shields.io/badge/python-3.9+-blue)
